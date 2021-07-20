@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BaiTapOanTuTi-XucXac/static/css/main.07e1894e.chunk.css",
+    "main.js": "/BaiTapOanTuTi-XucXac/static/js/main.6cad80d6.chunk.js",
+    "main.js.map": "/BaiTapOanTuTi-XucXac/static/js/main.6cad80d6.chunk.js.map",
+    "runtime-main.js": "/BaiTapOanTuTi-XucXac/static/js/runtime-main.7c321b4d.js",
+    "runtime-main.js.map": "/BaiTapOanTuTi-XucXac/static/js/runtime-main.7c321b4d.js.map",
+    "static/js/2.8e4afb2f.chunk.js": "/BaiTapOanTuTi-XucXac/static/js/2.8e4afb2f.chunk.js",
+    "static/js/2.8e4afb2f.chunk.js.map": "/BaiTapOanTuTi-XucXac/static/js/2.8e4afb2f.chunk.js.map",
+    "static/js/3.9df05f71.chunk.js": "/BaiTapOanTuTi-XucXac/static/js/3.9df05f71.chunk.js",
+    "static/js/3.9df05f71.chunk.js.map": "/BaiTapOanTuTi-XucXac/static/js/3.9df05f71.chunk.js.map",
+    "index.html": "/BaiTapOanTuTi-XucXac/index.html",
+    "static/css/main.07e1894e.chunk.css.map": "/BaiTapOanTuTi-XucXac/static/css/main.07e1894e.chunk.css.map",
+    "static/js/2.8e4afb2f.chunk.js.LICENSE.txt": "/BaiTapOanTuTi-XucXac/static/js/2.8e4afb2f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BaiTapOanTuTi-XucXac/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c321b4d.js",
+    "static/js/2.8e4afb2f.chunk.js",
+    "static/css/main.07e1894e.chunk.css",
+    "static/js/main.6cad80d6.chunk.js"
+  ]
+}
